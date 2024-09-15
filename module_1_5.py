@@ -2,7 +2,7 @@ immutable_var = 1, 2, True, "cake"
 print(immutable_var)
 immutable_var_1 = (1, 2, True, "cake")
 print(immutable_var_1)
-immutable_var_2 = tuple([1, 2, True, "cale"])
+immutable_var_2 = tuple([1, 2, True, "cake"])
 print(immutable_var_2)
 
 #immutable_var[0] = 3
